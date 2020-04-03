@@ -1,7 +1,9 @@
 # Please order list alphanumerically (Base24 templates at the top)
-windows-terminal: https://github.com/Base24/base24-windows-terminal
 kdeplasma: https://github.com/Base24/base24-kdeplasma
+konsole: https://github.com/Base24/base24-konsole
 slack: https://github.com/Base24/base24-slack
+windows-terminal: https://github.com/Base24/base24-windows-terminal
+
 
 alacritty: https://github.com/aaron-williamson/base16-alacritty
 binary-ninja: https://github.com/evanrichter/base16-binary-ninja
