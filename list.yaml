@@ -1,4 +1,5 @@
 # Please order list alphanumerically (Base24 templates at the top)
+gnome-terminal: https://github.com/Base24/base24-gnome-terminal
 iterm2: https://github.com/Base24/base24-iterm2
 kdeplasma: https://github.com/Base24/base24-kdeplasma
 konsole: https://github.com/Base24/base24-konsole
@@ -19,7 +20,6 @@ crosh: https://github.com/philj56/base16-crosh
 dunst: https://github.com/khamer/base16-dunst
 emacs: https://github.com/belak/base16-emacs
 fzf: https://github.com/nicodebo/base16-fzf
-gnome-terminal: https://github.com/aaron-williamson/base16-gnome-terminal
 godot: https://github.com/Calinou/base16-godot
 gtk2: https://github.com/dawikur/base16-gtk2
 highlight: https://github.com/bezhermoso/base16-highlight
