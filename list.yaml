@@ -4,10 +4,12 @@ gnome-terminal: https://github.com/Base24/base24-gnome-terminal
 html: https://github.com/Base24/base24-html
 iterm2: https://github.com/Base24/base24-iterm2
 kdeplasma: https://github.com/Base24/base24-kdeplasma
+kitty-te: https://github.com/Base24/base24-kitty-te
 konsole: https://github.com/Base24/base24-konsole
 slack: https://github.com/Base24/base24-slack
 termux: https://github.com/Base24/base24-termux
 vscode: https://github.com/Base24/base24-vscode
+vscode-terminal: https://github.com/Base24/base24-vscode-terminal
 windows-terminal: https://github.com/Base24/base24-windows-terminal
 xfce4-terminal: https://github.com/Base24/base24-xfce4-terminal
 
@@ -34,7 +36,6 @@ i3status-rust: https://github.com/mystfox/base16-i3status-rust
 jetbrains: https://github.com/adilosa/base16-jetbrains
 joe: https://github.com/jjjordan/base16-joe
 kakoune: https://github.com/aprilarcus/base16-kakoune
-kitty: https://github.com/kdrag0n/base16-kitty
 mako: https://github.com/Eluminae/base16-mako
 mintty: https://github.com/iamthad/base16-mintty
 monodevelop: https://github.com/netpyoung/base16-monodevelop
