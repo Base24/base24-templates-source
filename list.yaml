@@ -7,6 +7,7 @@ kate: https://github.com/Base24/base24-kate
 kdeplasma: https://github.com/Base24/base24-kdeplasma
 kitty-te: https://github.com/Base24/base24-kitty-te
 konsole: https://github.com/Base24/base24-konsole
+putty: https://github.com/Base24/base24-putty
 slack: https://github.com/Base24/base24-slack
 termux: https://github.com/Base24/base24-termux
 vscode: https://github.com/Base24/base24-vscode
@@ -46,7 +47,6 @@ mintty: https://github.com/iamthad/base16-mintty
 monodevelop: https://github.com/netpyoung/base16-monodevelop
 prism: https://github.com/atelierbram/base16-prism
 prompt-toolkit: https://github.com/memeplex/base16-prompt-toolkit
-putty: https://github.com/abravalheri/base16-putty
 pygments: https://github.com/mohd-akram/base16-pygments
 pywal: https://github.com/metalelf0/base16-pywal
 qownnotes: https://github.com/themix-project/base16-template-qOwnNotes
